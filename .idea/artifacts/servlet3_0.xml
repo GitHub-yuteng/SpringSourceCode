@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servlet3.0">
+    <output-path>$PROJECT_DIR$/servlet3.0/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>servlet3.0</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-annotation-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="servlet3.0:war exploded" />
+    </root>
+  </artifact>
+</component>

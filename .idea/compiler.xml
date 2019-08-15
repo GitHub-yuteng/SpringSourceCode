@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-user" />
+        <module name="eureka-server" />
+        <module name="gateway-server" />
+        <module name="provider-ticket" />
+        <module name="servlet3.0" />
+        <module name="spring-annotation" />
+        <module name="springmvc-annotation" />
+        <module name="springmvc-annotation (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="servlet3.0" target="8" />
+      <module name="spring-annotation" target="8" />
+      <module name="springmvc-annotation" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

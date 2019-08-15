@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/servlet3.0/servlet3.0.iml" filepath="$PROJECT_DIR$/servlet3.0/servlet3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-annotation/spring-annotation.iml" filepath="$PROJECT_DIR$/spring-annotation/spring-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-annotation/springmvc-annotation.iml" filepath="$PROJECT_DIR$/springmvc-annotation/springmvc-annotation.iml" />
+    </modules>
+  </component>
+</project>
